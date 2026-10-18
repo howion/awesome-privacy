@@ -932,6 +932,16 @@ categories:
           They provide good account security and email encryption, with OpenPGP, as well as
           encrypted storage. There is no dedicated app, but it works well with any standard
           mail client with SSL. There's also currently no anonymous payment option.
+      - name: fuck.it
+        url: https://fuck.it
+        icon: https://fuck.it/assets/img/fuckit-logo-square.webp
+        openSource: false
+        description: |
+          An email with attitude. Only accepts new users with invite. Instead of their own infrastructure
+          they are partnered with German [OpenXchange](https://ox.io/) providing government-level encrypted
+          security to their users minus the bureaucracy for its community. Offers advanced spam protection,
+          POP3/IMAP connections, and PGP encryption. Payments are only accepted with Stripe, and there is
+          no anonymous nor blockchain payments.
       notableMentions:
       - name: HushMail
         url: https://www.hushmail.com
